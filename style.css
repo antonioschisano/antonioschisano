@@ -150,11 +150,7 @@ b {
   color: #26358a !important;
 }
 
-/* Float the link section to the right */
-.header-right {
   float: right;
-}
-
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
 @media screen and (max-width: 500px) {
 .header {
@@ -229,18 +225,6 @@ span.navbarmbb {
   top: 15px;
   right: 35px;
   }
-}
-
-@media screen and (max-height: 800px) {
-div#RichiestaInformazioni {
-	display: none !important;
-}
-}
-
-@media screen and (max-width: 500px) {
-.sono {
- margin-top: 40px;
-}
 }
 
 a {
