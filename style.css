@@ -109,11 +109,10 @@ b {
 
 .onuimages {
   width: 150px;
-}
-
 @media screen and (max-width: 600px)  {
-        .onuimages { width: : 100px !important; }
+        width: 100px;
     }
+}
 
 /* Style the header with a grey background and some padding */
 .header {
