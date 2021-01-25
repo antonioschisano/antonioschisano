@@ -103,6 +103,10 @@ b {
   font-weight: bold;
 }
 
+@media screen and (min-width: 600px)  {
+        .mobile-break { display: none; }
+    }
+    
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
