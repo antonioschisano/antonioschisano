@@ -1,0 +1,8 @@
+ErrorDocument 404 /404.php
+
+RewriteEngine on
+RewriteCond %{HTTP:X-Forwarded-Proto} !https [OR]
+RewriteCond %{HTTP_HOST} !^www. [NC]
+RewriteRule (.*) https://antonioschisano.github.io/antonioschisano/$1 [R=301,L]
+
+AddDefaultCharset utf-8
