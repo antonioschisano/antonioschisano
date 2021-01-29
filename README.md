@@ -1,16 +1,18 @@
-### Ciao 👋, se hai qualche consiglio per migliorare il mio sito web non esitare! Grazie in anticipo!
+# Antonio Schisano Portfolio
+## Cos'è
 
-<!--
-**antonioschisano/antonioschisano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Questo è il mio portfolio che contiene tutte le mie skills.
 
-Here are some ideas to get you started:
+## Come è stato fatto
+Questo progetto è stato fatto interamente in html e css e hostato su Github Pages.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Per i suggerimenti (Issues)
+Se vuoi darmi qualche suggerimento -> [Issues](https://github.com/antonioschisano/antonioschisano/issues)
+
+## Proporre modifiche (Pull requests)
+Se vuoi propormi qualche modifica -> [Pull requests](https://github.com/antonioschisano/antonioschisano/pulls)
+
+## Policy
+[Cookie Policy](https://antonioschisano.github.io/antonioschisano/cookie-policy.html)
+
+[Privacy Policy](https://antonioschisano.github.io/antonioschisano/privacy-policy.html)

@@ -13,15 +13,6 @@
     <meta name="robots" content="all">
     <meta http-equiv="content-language" content="it">
     <meta name="google-site-verification" content="W9KldYKMU_BcTWa3TiG_wjpmhpYRs_I3RBTKymcGuGI">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-59P4FHVYTK"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-59P4FHVYTK');
-    </script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -57,19 +48,6 @@
   <div align ="center">
 <h1>Questo è il sito web di Antonio Schisano, <h1 id="carousel-words">Full Stack Developer</h1></h1>
 </div>
-<script>
-var words = ['Copywriter', 'Social Media Manager', 'Seo Specialist', 'Sem Specialist', 'Email Marketer', 'Full Stack Developer',];
-var counter = 0;
-var word = document.getElementById('carousel-words');
-setInterval(update_carousel_words, 1000);
-function update_carousel_words(){
-word.innerHTML = words[counter];
-counter++;
-if(counter >= words.length){
-counter = 0;
-}
-}
-</script>
 <a href="https://www.instagram.com/antonio_schisano/" target="_blank">instagram</a>
 <br>
 <a href="https://www.facebook.com/antonio.schisano.06/" target="_blank">facebook</a>
@@ -181,7 +159,29 @@ function myFunction() {
     </div>
 </div>
 </footer>
-
+    <!-- Script -->
+    <!-- Carosello di parole  -->
+    <script>
+    var words = ['Copywriter', 'Social Media Manager', 'Seo Specialist', 'Sem Specialist', 'Email Marketer', 'Full Stack Developer',];
+    var counter = 0;
+    var word = document.getElementById('carousel-words');
+    setInterval(update_carousel_words, 1000);
+    function update_carousel_words(){
+    word.innerHTML = words[counter];
+    counter++;
+    if(counter >= words.length){
+    counter = 0;
+    }
+    }
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-59P4FHVYTK"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-59P4FHVYTK');
+    </script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
