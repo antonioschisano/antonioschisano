@@ -28,7 +28,7 @@
 	  <title>Antonio Schisano</title>
   </head>
   <body>
-
+  <div class="progress" id="progress"></div>
 	<!-- Header -->
 	<div class="header">
   <a href="/antonioschisano" class="logo"><img src="foto.jpg" alt="Antonio Schisano" class="rounded-circle" style="height: 75px; width: 75px;"></a>
@@ -160,6 +160,26 @@ function myFunction() {
 </div>
 </footer>
     <!-- Script -->
+    <!-- Reading Bar -->
+    let prog = document.getElementById('progress');
+
+    let body = document.body,
+        html = document.documentElement;
+
+    let height = Math.max(body.scrollHeight, body.offsetHeight, html.clientHeight, html.scrollHeight, html.offsetHeight);
+
+    const setProgress = () => {
+       let scrollFromTop = (document.documentElement.scrollTop || body.scrollTop) + html.clientHeight;
+       let width = scrollFromTop / height * 100 + '%';
+
+       console.log('scroll', html.clientHeight, body.scrollTop);
+
+       prog.style.width = width;
+    }
+
+    window.addEventListener('scroll', setProgress);
+
+    setProgress();
     <!-- Carosello di parole  -->
     <script>
     var words = ['Copywriter', 'Social Media Manager', 'Seo Specialist', 'Sem Specialist', 'Email Marketer', 'Full Stack Developer',];

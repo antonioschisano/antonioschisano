@@ -3,6 +3,18 @@
   src: url(AgenturRegular.woff2);
 }
 
+/* Progress CSS */
+.progress {
+    background: orangered;
+    position: fixed;
+    top: 0;
+    bottom: auto;
+    left: 0;
+    width: 0%;
+    height: 5px;
+    z-index: 1000;
+}
+
 /* Reset Eric Mayer*/
 html, body, div, span, applet, object, iframe,
 , h2, h3, h4, h5, h6, p, blockquote, pre,
