@@ -1,6 +1,7 @@
 @font-face {
   font-family: Agentur;
   src: url(AgenturRegular.woff2);
+  font-display: swap;
 }
 
 /* Progress CSS */
