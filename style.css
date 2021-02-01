@@ -119,12 +119,6 @@ b {
         .mobile-break { display: none; }
     }
 
-.onuimages {
-@media screen and (max-width: 600px)  {
-        width: 100px;
-    }
-}
-
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
