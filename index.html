@@ -59,7 +59,7 @@
 <hr align="center" width="200" color="white">
 </div>
 
-	<!-- Skills, Obiettivi e Form -->
+	<!-- Skills, Obiettivi e Form Contattami -->
 	<div class="container" align="center">
     <div>
     	<br>
@@ -102,36 +102,24 @@
 	<div>
 <div class="container">
 <h2 style="margin-top: 20px; font-size: 2.5rem;">Contattami</h2>
-<p>Usa il form per contattarmi direttamente per qualsiasi informazione o richiesta.</p>
+<p>Usa il form per contattarmi direttamente per qualsiasi informazione o richiesta.</p><br>
+<p>Tutti i campi sono obbligatori.</p>
 </div>
 </div>
-
 <div>
 <div class="container richiesta">
 <form name="formmail" action="https://formspree.io/f/xaylkqye" method="POST" align="center" style="margin-bottom: 20px;">
-
   <label for="nome">Nome e Cognome</label>
-  <input type="text" id="nome" name="nome" placeholder="Inserisci Nome e Cognome">
-
+  <input type="text" id="nome" name="nome" placeholder="Inserisci Nome e Cognome" required>
   <label for="email">Email</label>
-  <input type="text" id="email" name="email" placeholder="Indirizzo di posta elettronica">
-
+  <input type="text" id="email" name="email" placeholder="Indirizzo di posta elettronica" required>
   <label for="tel">Telefono</label>
-  <input type="text" id="tel" name="tel" placeholder="Numero di telefono">
-
+  <input type="text" id="tel" name="tel" placeholder="Numero di telefono" required>
   <label for="msg">Messaggio</label>
-  <textarea id="msg" name="msg" placeholder="Scrivi il tuo messaggio"></textarea>
-
-  <input type="submit" value="Invia Richiesta" onclick="myFunction()">
-
-<script>
-function myFunction() {
-  alert("Form creato a solo scopo illustrativo perchè PHP su Github Pages non funziona.");
-}
-</script>
+  <textarea id="msg" name="msg" placeholder="Scrivi il tuo messaggio" required></textarea>
+  <input type="submit" value="Invia Richiesta">
 </form>
 </div>
-
 	<!-- Footer -->
 <footer>
     <div class="container">
