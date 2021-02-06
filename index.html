@@ -269,19 +269,20 @@
     </script>
     <!-- Swiper Js -->
     <script>
-    // core version + navigation, pagination modules:
-    import Swiper, { Navigation, Pagination } from 'swiper';
-    // configure Swiper to use modules
-    Swiper.use([Navigation, Pagination]);
+    // Import Swiper and modules
+    import { Swiper, Navigation, Pagination, Scrollbar } from 'swiper';
+
+    // Install modules
+    Swiper.use([Navigation, Pagination, Scrollbar]);
+
+    // Now you can use Swiper
     const swiper = new Swiper('.swiper-container', {
-    // Optional parameters
-    direction: 'horizontal',
-    loop: true,
-    // Navigation arrows
-    navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
-    },
+      speed: 500,
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      // ...
     });
     </script>
     <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>
