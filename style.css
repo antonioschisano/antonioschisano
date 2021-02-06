@@ -140,6 +140,7 @@ div.skill {
 .testoskill {
     color: white;
     font-weight: bold;
+    font-family: none;
 }
 
 .swiper-container {
