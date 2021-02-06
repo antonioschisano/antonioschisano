@@ -119,6 +119,41 @@ b {
         .mobile-break { display: none; }
     }
 
+/* Swiper */
+div.svg {
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+  padding: 20px 20px 20px 20px;
+}
+
+img.skillsimage {
+  max-height: 110px;
+  max-width: 110px;
+}
+
+div.skill {
+    position: relative;
+    bottom: 160px;
+}
+
+.testoskill {
+    color: white;
+}
+
+.swiper-container {
+  width: 600px;
+  height: 275px;
+}
+
+.swiper-button-prev {
+  color: white !important;
+}
+
+.swiper-button-next {
+  color: white !important;
+}
+
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
