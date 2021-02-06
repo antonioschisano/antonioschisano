@@ -270,8 +270,6 @@
     <!-- Swiper Js -->
     <script>
     const swiper = new Swiper('.swiper-container', {
-    observer: true, 
-    observeParents: true
     // Optional parameters
     direction: 'horizontal',
     loop: true,
@@ -280,6 +278,8 @@
     nextEl: '.swiper-button-next',
     prevEl: '.swiper-button-prev',
     },
+    observer: true,  
+    observeParents: true,
     });
     </script>
     <script src="https://unpkg.com/swiper/swiper-bundle.js"></script>

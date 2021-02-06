@@ -128,19 +128,24 @@ div.svg {
 }
 
 img.skillsimage {
-  max-height: 110px;
-  max-width: 110px;
+  max-height: 100px;
+  max-width: 100px;
 }
 
 div.skill {
     position: relative;
-    bottom: 160px;
+    bottom: 135px;
 }
 
 .testoskill {
     color: white;
-    font-weight: bold;
-    font-family: none;
+    font-weight: bold !important;
+    font-family: none !important;
+    font-size: 1.5em !important;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 .swiper-container {
