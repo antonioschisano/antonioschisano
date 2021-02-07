@@ -162,7 +162,9 @@ div.skill {
 }
 
 @media screen and (max-width: 650px) {
-  width: 300px;
+  .swiper-container {
+    width: 300px;
+  }
 }
 
 /* Style the header with a grey background and some padding */
