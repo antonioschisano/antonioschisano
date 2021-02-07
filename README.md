@@ -1,18 +1,25 @@
-# Antonio Schisano Portfolio
-## Cos'è
+<h1 align="center">Hi 👋, I'm Antonio Schisano</h1>
+<h3 align="center">Full Stack Developer. Creator of <a href="https://antonioschisano.github.io/antonioschisano/" target="_blank">Antonio Schisano Portfolio</a></h3>
+<br/>
+<br/>
 
-Questo è il mio portfolio che contiene tutte le mie skills.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonioschisano&margin-w=8" alt="antonioschisano" /></a> </p>
 
-## Come è stato fatto
-Questo progetto è stato fatto interamente in html e css e hostato su Github Pages.
+<p align="center"> <a href="https://github.com/antonioschisano/" target="blank"><img src="https://img.shields.io/github/followers/antonioschisano?label=Follow&style=social" alt="antonioschisano" /></a> </p>
 
-## Per i suggerimenti (Issues)
-Se vuoi darmi qualche suggerimento -> [Issues](https://github.com/antonioschisano/antonioschisano/issues)
 
-## Proporre modifiche (Pull requests)
-Se vuoi propormi qualche modifica -> [Pull requests](https://github.com/antonioschisano/antonioschisano/pulls)
+<h2 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.instagram.com/antonio_schisano/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@antonio_schisano" height="30" width="40" /></a>
+<a href="https://www.facebook.com/antonio.schisano.06/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="antonioschisano" height="30" width="40" /></a>
+<a href="https://twitter.com/antonio_schisan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@antonio_schisan" height="30" width="40" /></a>
+</p>
 
-## Policy
-[Cookie Policy](https://antonioschisano.github.io/antonioschisano/cookie-policy.html)
-
-[Privacy Policy](https://antonioschisano.github.io/antonioschisano/privacy-policy.html)
+<h2 align="center">Languages and Tools:</h3>
+<p align="center">
+<text xmlns="http://www.w3.org/2000/svg" text-anchor="middle" y="370" x="410" id="legend">       
+<tspan xml:space="preserve">   ◉</tspan> HTML  
+<tspan xml:space="preserve">   ◉</tspan> CSS        
+<tspan xml:space="preserve">   ◉</tspan> Bootstrap                 
+</text>
+</p>
