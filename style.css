@@ -161,6 +161,10 @@ div.skill {
   color: white !important;
 }
 
+@media screen and (max-width: 650px) {
+  width: 300px;
+}
+
 /* Style the header with a grey background and some padding */
 .header {
   overflow: hidden;
