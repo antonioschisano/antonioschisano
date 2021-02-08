@@ -161,7 +161,7 @@ div.skill {
   color: white !important;
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 770px) {
   .swiper-container {
     width: 300px;
   }
