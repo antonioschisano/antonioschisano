@@ -1,5 +1,3 @@
-<html>
-<body>
 <h1 align="center">Hi 👋, I'm Antonio Schisano</h1>
 <h3 align="center">Full Stack Developer. Creator of <a href="https://antonioschisano.github.io/antonioschisano/" target="_blank">Antonio Schisano Portfolio</a></h3>
 <br/>
@@ -25,5 +23,3 @@
 <tspan xml:space="preserve">   ◉</tspan> Bootstrap                 
 </text>
 </p>
-</body>
-</html>
