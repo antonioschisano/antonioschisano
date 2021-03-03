@@ -319,10 +319,6 @@ input[type=submit] {
   cursor: pointer;
 }
 
-textarea {
-	margin-left: 65px !important;
-}
-
 input[type=submit]:hover {
   background-color: none;
 }
@@ -331,9 +327,7 @@ input[type=submit]:hover {
 .container.richiesta {
     margin-left: -10px;
 }
-textarea {
-    margin-left: 40px !important;
-}
+
 input[type=text], textarea {
   margin-left: 40px;
 }
@@ -400,4 +394,14 @@ input[type=text], textarea {
 
 #twitterfooter {
     text-decoration: none;
+}
+
+#githubfooter {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 420px) {
+#githubmobile {
+    display: none;
+}
 }
