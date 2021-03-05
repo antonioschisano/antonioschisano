@@ -119,6 +119,10 @@ b {
         .mobile-break { display: none; }
     }
 
+#text {
+  display: none;
+}
+
 /* Swiper */
 div.svg {
   height: 200px;
@@ -305,8 +309,12 @@ input[type=text], textarea {
   box-sizing: border-box;
   margin-top: 5px;
   margin-bottom: 15px;
-  resize: vertical;
+  resize: none;
   margin-left: 65px;
+}
+
+input[type=text]::-webkit-scrollbar, textarea::-webkit-scrollbar {
+  display: none;
 }
 
 input[type=submit] {
