@@ -19,7 +19,8 @@
 <p align="center">
 <text xmlns="http://www.w3.org/2000/svg" text-anchor="middle" y="370" x="410" id="legend">       
 <tspan xml:space="preserve">   ◉</tspan> HTML  
-<tspan xml:space="preserve">   ◉</tspan> CSS        
+<tspan xml:space="preserve">   ◉</tspan> CSS       
+<tspan xml:space="preserve">   ◉</tspan> Javascript  
 <tspan xml:space="preserve">   ◉</tspan> Bootstrap      
 <tspan xml:space="preserve">   ◉</tspan> Facebook Ads    
 <tspan xml:space="preserve">   ◉</tspan> Google Ads    
