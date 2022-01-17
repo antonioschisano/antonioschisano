@@ -18,15 +18,24 @@
 <h2 align="center">Languages, Tools and Skills:</h2>
 <p align="center">
 <text xmlns="http://www.w3.org/2000/svg" text-anchor="middle" y="370" x="410" id="legend">       
-<tspan xml:space="preserve">   ◉</tspan> Front-End Developer (HTML, CSS and Javascript) 
-<tspan xml:space="preserve">   ◉</tspan> Framework (Bootstrap) 
+<tspan xml:space="preserve">   ◉</tspan> Front-End Developer (HTML, CSS and Javascript)
+<br>
+<tspan xml:space="preserve">   ◉</tspan> Framework (Bootstrap)
+<br>
 <tspan xml:space="preserve">   ◉</tspan> Web Design (Wordpress)
+<br>
 <tspan xml:space="preserve">   ◉</tspan> E-commerce Manager (WooCommerce)
-<tspan xml:space="preserve">   ◉</tspan> Advertising (Facebook Ads and Google Ads)   
+<br>
+<tspan xml:space="preserve">   ◉</tspan> Advertising (Facebook Ads and Google Ads)  
+<br> 
 <tspan xml:space="preserve">   ◉</tspan> Email Marketing (Mailchimp and ActiveCampaign)
+<br>
 <tspan xml:space="preserve">   ◉</tspan> SEO (Yoast SEO, Ubersuggest and Ahrefs)
+<br>
 <tspan xml:space="preserve">   ◉</tspan> Copywriting (Neuromarketing, Soap Opera Sequence and more)
+<br>
 <tspan xml:space="preserve">   ◉</tspan> Data Analyst (Google Analytics, Microsoft Clarity and Hotjar)
+<br>
 <tspan xml:space="preserve">   ◉</tspan> Funnel Designer (Funnelytics)
 </text>
 </p>
