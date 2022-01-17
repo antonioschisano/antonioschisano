@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antonio Schisano</h1>
-<h3 align="center">Full Stack Developer. Creator of <a href="https://antonioschisano.github.io/antonioschisano/" target="_blank">Antonio Schisano Portfolio</a></h3>
+<h3 align="center">Full Stack Marketer and Front-End Developer. Creator of <a href="https://antonioschisano.github.io/antonioschisano/" target="_blank">Antonio Schisano Portfolio</a></h3>
 <br/>
 <br/>
 
@@ -15,15 +15,19 @@
 <a href="https://twitter.com/antonio_schisan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@antonio_schisan" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">Languages, Tools and Skills:</h2>
 <p align="center">
 <text xmlns="http://www.w3.org/2000/svg" text-anchor="middle" y="370" x="410" id="legend">       
-<tspan xml:space="preserve">   ◉</tspan> HTML  
-<tspan xml:space="preserve">   ◉</tspan> CSS       
-<tspan xml:space="preserve">   ◉</tspan> Javascript  
-<tspan xml:space="preserve">   ◉</tspan> Bootstrap      
-<tspan xml:space="preserve">   ◉</tspan> Facebook Ads    
-<tspan xml:space="preserve">   ◉</tspan> Google Ads    
+<tspan xml:space="preserve">   ◉</tspan> Front-End Developer (HTML, CSS and Javascript) 
+<tspan xml:space="preserve">   ◉</tspan> Framework (Bootstrap) 
+<tspan xml:space="preserve">   ◉</tspan> Web Design (Wordpress)
+<tspan xml:space="preserve">   ◉</tspan> E-commerce Manager (WooCommerce)
+<tspan xml:space="preserve">   ◉</tspan> Advertising (Facebook Ads and Google Ads)   
+<tspan xml:space="preserve">   ◉</tspan> Email Marketing (Mailchimp and ActiveCampaign)
+<tspan xml:space="preserve">   ◉</tspan> SEO (Yoast SEO, Ubersuggest and Ahrefs)
+<tspan xml:space="preserve">   ◉</tspan> Copywriting (Neuromarketing, Soap Opera Sequence and more)
+<tspan xml:space="preserve">   ◉</tspan> Data Analyst (Google Analytics, Microsoft Clarity and Hotjar)
+<tspan xml:space="preserve">   ◉</tspan> Funnel Designer (Funnelytics)
 </text>
 </p>
 <h2 align="center">Buy me a coffee:</h2>
