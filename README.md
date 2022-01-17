@@ -3,8 +3,6 @@
 <br/>
 <br/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonioschisano&margin-w=8" alt="antonioschisano" /></a> </p>
-
 <p align="center"> <a href="https://github.com/antonioschisano/" target="blank"><img src="https://img.shields.io/github/followers/antonioschisano?label=Follow&style=social" alt="antonioschisano" /></a> </p>
 
 
