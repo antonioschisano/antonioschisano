@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Antonio Schisano</h1>
 <h3 align="center">Full Stack Marketer, Front-End Developer and Graphic Designer with Canva. <br> Creator of <a href="https://antonioschisano.github.io/antonioschisano/" target="_blank">Antonio Schisano Portfolio</a>.</h3>
 <br/>
-<br/>
 
 <p align="center"> <a href="https://github.com/antonioschisano/" target="blank"><img src="https://img.shields.io/github/followers/antonioschisano?label=Follow&style=social" alt="antonioschisano" /></a> </p>
-
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
