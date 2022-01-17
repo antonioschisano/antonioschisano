@@ -37,6 +37,8 @@
 <tspan xml:space="preserve">   ◉</tspan> Data Analyst (Google Analytics, Microsoft Clarity and Hotjar)
 <br>
 <tspan xml:space="preserve">   ◉</tspan> Funnel Designer (Funnelytics)
+<br>
+<tspan xml:space="preserve">   ◉</tspan> Graphic Designer (Canva)
 </text>
 </p>
 <h2 align="center">Buy me a coffee:</h2>
